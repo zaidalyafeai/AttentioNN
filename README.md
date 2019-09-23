@@ -11,7 +11,7 @@ All about attention in neural networks described as colab notebooks
   </tr>
   <tr>
     <td class="tg-yw4l">Attention maps</td>
-    <td class="tg-yw4l">How does a CNN attend to images at different layers </td>
+    <td class="tg-yw4l">How does a CNN attent to image objects </td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/AttentioNN/blob/master/Attention_Maps.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" height = '20px' >
     </a></td>
