@@ -23,4 +23,14 @@ All about attention in neural networks described as colab notebooks
     <img src="https://colab.research.google.com/assets/colab-badge.svg" height = '20px' >
     </a></td>
   </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Attention in image captioning</td>
+    <td class="tg-yw4l">Attention in image captioning using sof attention and double stochastic regularization</td></td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/AttentioNN/blob/master/Attention_in_Image_Captioning.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" height = '20px' >
+    </a></td>
+  </tr>
+  
+  
 </table>
